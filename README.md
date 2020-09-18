@@ -19,3 +19,4 @@
 - The trend is the higher the goal amount, the lower the successful percentage. 
 	- [Outcomes based on Goal](https://github.com/Yunaka1269/kickstarter-analysis/blob/master/Outcomes_vs_goals.png)
 - Descriptive statistic shows followings that mean, median, standard  deviation, and IQR are higher in failed campaign goal than successful ones.  
+	- [Descriptive Statistic](https://github.com/Yunaka1269/kickstarter-analysis/blob/Other/Descriptive_Statistic.png)
