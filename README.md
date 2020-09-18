@@ -13,6 +13,7 @@
 - The month of May records the highest successful number of theater outcomes and December seems to be the least favorable month to launch promotion.
 	- [Theater outcomes based on launched date](https://github.com/Yunaka1269/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 - Althought it bumped up from 2014 to 2015, the number of outcomes has a trend of declining over the time.
+	- [Theater outcomes transition](https://github.com/Yunaka1269/kickstarter-analysis/blob/Other/Theater_Outcomes.png)
 
 ##Outcomes based on Goal
 - The trend is the higher the goal amount, the lower the successful percentage. 
