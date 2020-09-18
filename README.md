@@ -20,3 +20,5 @@
 	- [Outcomes based on Goal](https://github.com/Yunaka1269/kickstarter-analysis/blob/master/Outcomes_vs_goals.png)
 - Descriptive statistic shows followings that mean, median, standard  deviation, and IQR are higher in failed campaign goal than successful ones.  
 	- [Descriptive Statistic](https://github.com/Yunaka1269/kickstarter-analysis/blob/Other/Descriptive_Statistic.png)
+- However, almost 85% of *play* campaigns are targeted at goal amount between $1 and $4,999 so the percentage gets fluctuated higher by 1 result in campaign that targets higher than $10,000. 
+	- [Outcomes based on goal](https://github.com/Yunaka1269/kickstarter-analysis/blob/Other/Outcomes_vs_goals2.png)
