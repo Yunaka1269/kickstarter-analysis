@@ -2,6 +2,7 @@
 
 ##The analysis was performed by comparing  
 1.the total number of theater outcomes (successful/failed/cancelled) based on campaign launched month.
+
 2.the successful or failed percentage of campaign based on their goal amount.
 
 ###Challenge/limitation with dataset
