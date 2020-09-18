@@ -25,3 +25,10 @@
 	- [Descriptive Statistic](https://github.com/Yunaka1269/kickstarter-analysis/blob/Other/Descriptive_Statistic.png)
 - However, almost 85% of *play* campaigns are targeted at goal amount between $1 and $4,999 so the percentage gets fluctuated higher by 1 result in campaign that targets higher than $10,000. 
 	- [Outcomes based on goal](https://github.com/Yunaka1269/kickstarter-analysis/blob/Other/Outcomes_vs_goals2.png)
+	
+
+###Possible tables
+- *Theather* successful outcomes had increased three years in a row in April while other months had not, and also April records the third highest pledged total amount. 
+- [Theater outcomes change by month](https://github.com/Yunaka1269/kickstarter-analysis/blob/Other/Theater_Outcomes_Comparison_by_Year.png)
+- [Theater outcomes with pledged total](https://github.com/Yunaka1269/kickstarter-analysis/blob/Other/Theater_Outcomes_vs_Launch2.png)
+	- It may be better to launch the promotion in April than May.
